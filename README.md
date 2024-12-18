@@ -1,4 +1,4 @@
-#GZDoom For Mac and (coming soon)school
+#GZDoom For Mac and (coming soon)Windows
 
 ## GZDoom is a doom engine
 
